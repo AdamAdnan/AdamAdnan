@@ -10,3 +10,7 @@ Saya seorang mahasiswa di Universitas Muslim Indonesia
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdamAdnan&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+
+### Reach me on
+- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
