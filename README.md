@@ -1,4 +1,4 @@
-# Halo semua!
+l# Halo semua!
 
 Perkenalkan nama saya **Adam Adnan**.<br>
 Saya seorang mahasiswa di Universitas Muslim Indonesia
@@ -13,4 +13,4 @@ Saya seorang mahasiswa di Universitas Muslim Indonesia
 
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/adamadnan01/">LinkedIn</a>
