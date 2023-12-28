@@ -1,4 +1,4 @@
-l# Halo semua!
+# Halo semua!
 
 Perkenalkan nama saya **Adam Adnan**.<br>
 Saya seorang mahasiswa di Universitas Muslim Indonesia
